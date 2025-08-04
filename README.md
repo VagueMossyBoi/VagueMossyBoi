@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Moss 👋
+
+## About Me
+
+I am a Computer Science student at KU Leuven. I like playing video games in my free time, some of my favorite games are Counter Strike 2 and Terraria.
+
+## Skills
+
+- **Languages:**
+  - Python
+  - Java
+  - JavaScript
+  - C
+  - RISC-V assembly language
+- **Tools:**
+  - [fsc4j](https://github.com/fsc4j/fsc4j) (definitely very useful)
 
 <!--
 **VagueMossyBoi/VagueMossyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
