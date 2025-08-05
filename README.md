@@ -1,10 +1,10 @@
-# ![Iter_75ms_definitive](https://github.com/user-attachments/assets/28fb53bb-d1be-44d1-8589-499b523327ed) Hi there, I'm Moss 👋
+# ![Kirby_Walking](/Images/Kirby_Walking.gif) Hi there, I'm Moss
 
-## About Me
+## ![Tyranitar](/Images/Tyranitar_Overworld.gif) About Me
 
 I am a Computer Science student at KU Leuven. I like playing video games in my free time, some of my favorite games are Counter Strike 2 and Terraria.
 
-## Skills
+## ![UFO_Kirby](/Images/UFO_Kirby.gif) Skills
 
 - **Languages:**
   - Python
